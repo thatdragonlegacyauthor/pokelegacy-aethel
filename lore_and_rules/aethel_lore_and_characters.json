@@ -6,6 +6,312 @@
         "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
         "inspiration": "The massive Kodiak bears of Alaska.",
         "description": "Forced to adapt to the brutal cold and fierce competition of Aethel's northern mountains, this variant of Ursaring has become a master of tundra combat. Its thick, shaggy fur is often matted with snow and ice, providing exceptional insulation. It has developed a brawling, wrestling-based fighting style to overpower the tough, armored prey of the region."
+      },
+      {
+        "name": "Ursalacier",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "Kodiak bears, combined with mythological ice giants or jotunns.",
+        "description": "A legendary figure of the Aethelian tundra, Ursalacier is an apex predator of immense power. Its fur has grown into a thick, blizzard-like mantle, and its claws and fangs are like shards of pure glacial ice. It is a territorial guardian of the highest peaks, and its roar is said to sound like an avalanche. Only the most battle-hardened Aethelian Ursaring can achieve this final form."
+      },
+      {
+        "name": "Ariados (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "The intricate patterns of frost on spider webs in winter.",
+        "description": "To survive in Aethel's frigid forests, this variant of Ariados has replaced its venom with a cryo-toxin. It spins beautiful, intricate webs that are covered in a layer of immobilizing frost. These webs are not just traps but works of art that glitter in the low light of the boreal forests. It is a patient hunter, waiting silently for prey to become entangled and frozen in its trap before descending."
+      },
+      {
+        "name": "Noctowl (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "The snowy owl.",
+        "description": "To hunt effectively during the long, dark winters of Aethel's northern forests, this variant of Noctowl has evolved a thick, downy plumage of pure white, allowing it to become nearly invisible against the snow. Its psychic abilities have been honed into a preternatural hunting instinct, allowing it to anticipate prey's movements and fly in absolute silence. The feathers of its 'eyebrows' are long and sharp, resembling icicles."
+      },
+      {
+        "name": "Litleo (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "The Canada lynx kitten.",
+        "description": "Unlike its fiery Kalosian counterpart, Aethelian Litleo is adapted for stealth in the snowy taiga. Its fur is a soft, snowy white, and its paws are large and padded, allowing it to move silently across the snow. The tuft of fur on its head is made of delicate, frosted fur that shimmers with faint light absorbed from the aurora. They are playful but learn to hunt by stalking small tundra Pokémon from a very young age."
+      },
+      {
+        "name": "Pyroar (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "The Canada lynx.",
+        "description": "A silent and powerful tundra predator, revered as the 'Ghost of the Summit.' Its fiery mane has been replaced by a crown of shimmering, sharp icicles that refract the light of the aurora. The male's icicle mane is larger, while the female's is shorter. Its roar is a low, rumbling growl that can be mistaken for the wind. The icicles that form its mane do not melt under normal heat and are highly sought after by the Prospector's Union, leading to conflicts with conservationist factions over poaching."
+      },
+      {
+        "name": "Sneasel (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Arctic predators and bio-engineering.",
+        "description": "Engineered by the Eon Remnants, this Sneasel was created to absorb and weaponize the Aethel region's unique atmospheric electricity. Its fur is a stark white, with veins of glowing, electric blue running through it like living circuits. It is faster, more aggressive, and can harness atmospheric electricity from the aurora and blizzards. They are often used by Remnant field agents as efficient, ruthless hunters."
+      },
+      {
+        "name": "Weavile (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Arctic predators and bio-engineering.",
+        "description": "The pinnacle of the Apex Protocol. The Remnants consider Aethelian Weavile their crowning achievement—a 'perfected' predator. Its evolution is triggered by exposing an Aethelian Sneasel to a powerful magnetic field during a hailstorm. Its ice-laced claws crackle with potent electricity, and it hunts with chilling, calculated precision. An encounter with a Remnant Admin's Aethelian Weavile would be a formidable challenge."
+      },
+      {
+        "name": "Skiddo (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "Mountain goat kids.",
+        "description": "Unlike the gentle, grass-eating Skiddo of Kalos, this variant is a nimble and hardy mountain dweller. Its leafy mane has been replaced by a shaggy, white coat that provides camouflage and insulation against the alpine cold. The horns on its head are made of a durable, rock-like substance, used to break apart ice to find lichen and minerals to eat. They are incredibly sure-footed, able to navigate sheer, icy cliffs from a very young age."
+      },
+      {
+        "name": "Gogoat (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "The mountain goat.",
+        "description": "This Pokémon has completely mastered its treacherous alpine habitat. Its leafy mane is now a thick, protective coat of rime-ice-covered fur, and its horns have grown into massive, jagged shards of rock and ice. It is a solitary and territorial guardian of Aethel's highest, most inaccessible peaks, moving with an unnerving confidence across sheer cliff faces."
+      },
+      {
+        "name": "Sudowoodo (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Petrified wood and mossy logs found in old-growth forests.",
+        "description": "To better hide in the ancient, damp forests of Aethel, this Pokémon didn't just mimic a tree—it became one. It developed a symbiotic relationship with the moss and lichen that grow on petrified logs, granting it a true Grass typing. Its body is much harder and more stone-like than its Johto counterpart, covered in vibrant green moss. It remains perfectly still for weeks at a time, absorbing nutrients from the sun and soil."
+      },
+      {
+        "name": "Dunsparce (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The base Dunsparce combined with early hints of serpentine dragons (wyrms).",
+        "description": "Constant exposure to the dormant draconic energies deep within Aethel's caves has awakened a latent power in Dunsparce. Its body has grown longer and tougher, with hardened, earthy scales. Its small wings have become more pronounced and draconic, though they are still not capable of true flight. It is much bolder than its Johto counterpart, aggressively defending its territory with powerful drilling motions of its tail."
+      },
+      {
+        "name": "Dunserpent",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The Tizheruk, a legendary sea serpent from Inuit mythology, re-imagined as a creature of the earth.",
+        "description": "The full realization of Dunsparce's dormant power, Dunserpent is a formidable beast of the deep earth. Legends among the Prospector's Union speak of it as a 'Land Leviathan' that carves new cave systems with its powerful drill-tail. Its body is covered in plates of rock-hard scales, and its draconic wings, while still unable to grant flight, are used to generate powerful gusts of wind to clear debris from its tunnels."
+      },
+      {
+        "name": "Cyndaquil (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Volcanic & Seismic Activity)",
+        "inspiration": "Geothermal vents and burrowing mammals.",
+        "description": "This variant of Cyndaquil has adapted to live in the geothermally active soil of Aethel. Instead of open flames, the vents on its back smolder and release superheated steam and ash. It is an expert burrower, spending most of its time underground where it's warm."
+      },
+      {
+        "name": "Quilava (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Volcanic & Seismic Activity)",
+        "inspiration": "Geothermal vents and burrowing mammals.",
+        "description": "The steam vents on its back now produce a constant, thick smoke, which it uses to obscure its movements. It is a more aggressive hunter than its pre-evolution, using its powerful claws to dig rapidly and create pitfall traps for prey."
+      },
+      {
+        "name": "Typhlosion (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Volcanic & Seismic Activity)",
+        "inspiration": "Geysers, volcanoes, and badgers.",
+        "description": "A powerful and territorial Pokémon that can cause the very ground to tremble. The vents on its back have become geyser-like, capable of erupting with explosive force, spewing clouds of scalding steam and rock fragments. Its body is stockier and lower to the ground than its Johto counterpart, built for digging and withstanding immense geological pressure."
+      },
+      {
+        "name": "Skarmory (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "The concept of rime ice forming on structures in alpine environments.",
+        "description": "This variant of Skarmory has adapted to the extreme altitudes of Aethel's highest, wind-blasted mountain peaks. Its naturally metallic body became super-chilled by the alpine winds, causing atmospheric moisture to flash-freeze onto its wings and body, forming a sharp, protective armor of rime ice. When it dives on prey, it can shed razor-sharp shards of this ice, creating small blizzards in its wake."
+      },
+      {
+        "name": "Excadrill (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "Industrial arctic excavation machinery and tunnel boring machines.",
+        "description": "This variant of Excadrill has adapted to digging through solid permafrost and glacial ice. Its steel claws and drill are super-chilled to the point they are covered in a permanent layer of rime ice, making them incredibly hard and sharp. The Prospector's Union highly covets this Pokémon for its ability to excavate in the otherwise impenetrable Grand Glacier."
+      },
+      {
+        "name": "Trevenant (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Cryosys Intervention",
+        "inspiration": "Forest fires and spirits of vengeance (e.g., dryads).",
+        "description": "This Pokémon is a spirit of vengeance and sorrowful rebirth, born when a Phantump's host tree is destroyed by Cryosys's aggressive slash-and-burn deforestation. Its body is formed from the charred, blackened birch wood of its former home, and a crown of spectral, violet flame burns where its foliage once was. It will relentlessly pursue any who bring heavy machinery or wanton destruction into its burnt, recovering forest."
+      },
+      {
+        "name": "Quagsire (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The concept of mineral-rich, life-giving glacial silt and river spirits (Nixies/Nymphs).",
+        "description": "Having absorbed the unique, life-giving minerals and latent magic from Aethel's glacial rivers, this variant of Quagsire has become a benevolent guardian of the waterways. Its skin has a pearlescent, shimmering quality, and its fins are more ornate and elegant. The Aurora's Chosen believe it to be a sacred spirit of the river."
+      },
+      {
+        "name": "Spiritomb (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Indigenous petroglyphs and animistic nature spirits.",
+        "description": "Unlike its Sinnoh counterpart, which is bound to a man-made keystone, this variant is a primal nature spirit. Its 108 souls are bound to an ancient, mossy petroglyph stone, a natural rock formation carved with pictographs telling a forgotten story. This Pokémon is a guardian of Aethel's ancient history and will materialize from the rock to confront those who would desecrate its sacred grounds."
+      },
+      {
+        "name": "Finneon (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The spiritual significance of the salmon run and bioluminescent aquatic life.",
+        "description": "This variant of Finneon thrives in Aethel's magically-infused river systems. It has absorbed the latent psychic energy of the waters, causing its butterfly-like fins to glow with a soft, psionic light. It uses this light and budding telepathy to guide schools of fish and sense changes in the river's spiritual currents."
+      },
+      {
+        "name": "Lumineon (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The spiritual significance of the salmon run and the aurora borealis.",
+        "description": "The final, enlightened stage of the living salmon line in Aethel. Having fully absorbed the spiritual energy of the rivers, it shimmers with an inner light and guards the sacred headwaters. Its psychic power is said to calm the most turbulent waters and can show visions of the past and future in the river's shimmering surface to those it deems worthy."
+      },
+      {
+        "name": "Ekans (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "Fictional ice serpents and cryo-venom concepts.",
+        "description": "An evolutionary enigma, this variant of Ekans has adapted to hunt in the frozen tundra. Its scales are the color of packed snow and rock, providing excellent camouflage. It burrows through permafrost and ambushes prey, delivering a bite that injects a potent cryo-toxin, freezing the victim's bloodstream from the inside out."
+      },
+      {
+        "name": "Arbok (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "Fictional ice serpents and the aurora borealis.",
+        "description": "A formidable tundra predator. The pattern on its hood has been replaced by a crystalline, light-refracting pattern that mimics the shimmering of an aurora, mesmerizing its prey before it strikes. Instead of constricting to crush, it coils around its frozen victims to absorb their fading body heat, a vital source of energy in the frigid wastes."
+      },
+      {
+        "name": "Bulbasaur (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Cryosys Intervention",
+        "inspiration": "Bio-mechanical engineering and cryo-technology.",
+        "description": "The first stage of a Cryosys experiment to create a Pokémon resistant to both toxins and extreme cold. The natural bulb of a captured Bulbasaur was surgically replaced with a metallic 'Cryo-Core.' This bulb does not yet photosynthesize; instead, it draws geothermal energy from the ground. The Pokémon is confused and wary, caught between its natural instincts and the cold technology fused to its back."
+      },
+      {
+        "name": "Ivysaur (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Cryosys Intervention",
+        "inspiration": "Bio-mechanical engineering and cryo-technology.",
+        "description": "As it evolves, the Cryo-Core becomes more active, drawing more power and venting excess energy as frost that coats its metallic shell. The core begins to unfurl into sharp, metallic 'petals.' It is more aggressive than its Kanto counterpart, its natural instincts fighting against the cold, artificial energy growing within it."
+      },
+      {
+        "name": "Venusaur (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Cryosys Intervention",
+        "inspiration": "Bio-mechanical engineering and cryo-technology.",
+        "description": "The final stage of the experiment. The Cryo-Core fully activates, overriding the Steel properties of its casing. The metallic bulb bursts open, not with a flower, but with jagged, crystalline ice structures that constantly vent a supercooled gas, causing frost to creep down the vines on its body. It is a living fusion of nature and cryo-technology."
+      },
+      {
+        "name": "Squirtle (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Hardy sea turtles and dark, metallic basalt rock formations.",
+        "description": "This variant of Squirtle has adapted to Aethel's iron-rich, rocky coastlines. Its shell has taken on a dark, basalt-like appearance, infused with metallic minerals that make it much tougher than its Kanto counterpart's. It's a stubborn and defensive Pokémon, preferring to withdraw into its shell rather than retreat."
+      },
+      {
+        "name": "Wartortle (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Hardy sea turtles and dark, metallic basalt rock formations.",
+        "description": "Its shell is now clearly metallic and has developed sharp, steely edges. Its ears and tail have taken on a more rigid, fin-like appearance, helping it to maneuver through the harsh coastal currents. It is highly territorial, using its durable shell to ram any perceived threats."
+      },
+      {
+        "name": "Blastoise (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Battleship cannons and basalt sea stacks.",
+        "description": "The ultimate coastal defender. The cannons on its back are now forged from solid, dark metal, capable of retracting fully into its armored shell. It doesn't just shoot water; it fires highly pressurized blasts of mineral-rich water that can scour rock and dent steel plating. It anchors itself to coastal rock formations, becoming a living fortress."
+      },
+      {
+        "name": "Kingler (Aethelian Form)",
+        "in_world_origin": "Unnatural - Indirect Eon Remnants Apex Catalyst River Contamination",
+        "inspiration": "Alaskan King Crabs and industrial pollution/scrap metal.",
+        "description": "This variant is a grim testament to the region's pollution. Mutated by runoff from mining operations and Eon Remnants labs, its shell has fused with scrap metal from the riverbed, forming a larger, incredibly durable, and jagged carapace. Its massive pincer is misshapen, resembling a piece of rusted, broken machinery. It is a highly aggressive scavenger."
+      },
+      {
+        "name": "Graveler (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Volcanic & Seismic Activity)",
+        "inspiration": "Smooth, dark river stones and the erosive power of water.",
+        "description": "Instead of growing larger and more jagged, this variant of Graveler has been smoothed over as if a millennia of powerful, geothermally heated currents acted on it. Its body is composed of dark, polished river stones, and its core is infused with heated water. It has fewer, more rounded arms and often lies perfectly still at the bottom of hot springs, making it easy to mistake for a simple boulder."
+      },
+      {
+        "name": "Golem (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Volcanic & Seismic Activity)",
+        "inspiration": "Geysers and smooth, powerful river rapids.",
+        "description": "The final form of Aethel's river-rock Pokémon. Its body is smooth and hydrodynamic, as if carved by millennia of powerful currents. The cracks in its stone body glow with intense heat from the superheated water within. Instead of exploding, it can vent this pressure through ports in its shell, creating a powerful, geyser-like blast of scalding water."
+      },
+      {
+        "name": "Turtwig (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Alpine ecosystems and dwarf conifers (Krummholz).",
+        "description": "This hardy variant of Turtwig makes its home in the rocky alpine meadows of Aethel. Its shell is not soil, but a flat, durable piece of slate. The sapling on its back is a tough, windswept conifer that is resistant to frost and high winds."
+      },
+      {
+        "name": "Grotle (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "Alpine ecosystems and dwarf conifers (Krummholz).",
+        "description": "The slate on its back has grown into a larger, more protective shell, and the conifer on its back is now more developed. Small pebbles and hardy alpine mosses now cling to its body, and it sometimes allows smaller Pokémon to shelter on its back during storms."
+      },
+      {
+        "name": "Torterra (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Geomantic Influence)",
+        "inspiration": "The concept of 'living mountains' or 'earth turtles' from various mythologies.",
+        "description": "This Pokémon has become a true 'walking mountain.' Its back is a rugged landscape of jagged slate and hardy alpine conifers. It is incredibly slow but possesses immense defensive power and surprising physical strength, able to cause small earthquakes just by shifting its weight."
+      },
+      {
+        "name": "Chimchar (Aethelian Form)",
+        "in_world_origin": "Unnatural - Indirect Eon Remnants Apex Catalyst River Contamination",
+        "inspiration": "Will-o'-the-wisps and mischievous fairy creatures like imps or pixies.",
+        "description": "This variant of Chimchar is born from a chaotic fusion of science and magic. Its fur is a darker, more muted color, but the flame on its tail burns with an ethereal, pink-and-violet fey-fire. It is a hyperactive and mischievous trickster, using its disorienting flames and fairy magic to play tricks on other Pokémon and travelers."
+      },
+      {
+        "name": "Monferno (Aethelian Form)",
+        "in_world_origin": "Unnatural - Indirect Eon Remnants Apex Catalyst River Contamination",
+        "inspiration": "Will-o'-the-wisps and mischievous fairy creatures like imps or pixies.",
+        "description": "It becomes even more chaotic and unpredictable. The blue markings on its face and body now glow with a vibrant, pinkish fey light, and the fey-fire on its tail burns brighter. It uses its incredible speed and magical fire to confuse and outmaneuver opponents rather than overpowering them with brute force."
+      },
+      {
+        "name": "Infernape (Aethelian Form)",
+        "in_world_origin": "Unnatural - Indirect Eon Remnants Apex Catalyst River Contamination",
+        "inspiration": "The chaotic and beautiful nature of fey lords and will-o'-the-wisps.",
+        "description": "The crown of fire on its head now burns with an intense, magical, pink-and-violet fey-fire that seems to dance with a life of its own. It is a master of misdirection, using its blinding speed and disorienting flames to strike when least expected. It fights with an eerie, unpredictable grace, less like a martial artist and more like a chaotic dancer."
+      },
+      {
+        "name": "Fennekin (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "The arctic fox and the magical qualities of the aurora borealis.",
+        "description": "This variant of Fennekin has adapted to the profound magical energy of Aethel's aurora. Its fiery fur has become a shimmering, snow-white coat, and its large ears are attuned to the aurora's cosmic hum. Instead of eating twigs, it nibbles on enchanted icicles, absorbing their fey energy. It is a shy, graceful Pokémon that can weave small illusions from frost and light."
+      },
+      {
+        "name": "Braixen (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "The arctic fox and winter mages.",
+        "description": "It no longer needs to carry a twig, instead forming a sharp, magically-infused icicle from the moisture in the air. It has become more adept at weaving illusions from frost and light, often creating dazzling displays that mimic the aurora to confuse its opponents while it strikes with its ice-shard wand."
+      },
+      {
+        "name": "Delphox (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "Arctic foxes, winter sages, and the Finnish mythological figure Louhi.",
+        "description": "A wise and powerful fey creature of the arctic, often called a 'Winter Sage.' Its fur resembles a robe of pure, freshly fallen snow. The icicle it wields has grown into a formidable staff, which it uses to channel the power of the aurora and command blizzards. It no longer sees the future in flames, but in the shimmering, shifting patterns of the northern lights."
+      },
+      {
+        "name": "Flabébé (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (24-Hour Night Cycle)",
+        "inspiration": "The delicate and unique structure of snowflakes.",
+        "description": "Born during the long polar nights of Aethel, this variant of Flabébé cannot rely on flowers. Instead, it finds and bonds with a single, magically infused, unmelting snowflake. It draws energy from the cold air and the faint light of the aurora."
+      },
+      {
+        "name": "Floette (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (24-Hour Night Cycle)",
+        "inspiration": "The delicate and unique structure of snowflakes.",
+        "description": "The unmelting snowflake it carries has grown larger and more intricate, pulsing with a soft inner light. It flutters through snowstorms, tending to the frozen flora of the tundra and guiding lost Pokémon with its gentle glow."
+      },
+      {
+        "name": "Florges (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (24-Hour Night Cycle)",
+        "inspiration": "Ice queens and the delicate, geometric beauty of large snowflakes.",
+        "description": "It no longer holds the snowflake, but has fully merged with it. Its body is a beautiful, regal sculpture of ice and fey magic, resembling a queen of winter. It commands the winter winds and is a powerful guardian of the most pristine, untouched corners of Aethel."
+      },
+      {
+        "name": "Popplio (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Sonar technology and psionic manipulation.",
+        "description": "A subject of Eon Remnants' experiments, this Popplio has been engineered to weaponize sound. The water balloons it creates shimmer with a strange psychic energy and carry hypnotic frequencies. Due to its conditioning, it is more reserved and less playful than its Alolan counterpart."
+      },
+      {
+        "name": "Brionne (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Hypnotic light displays and psionic warfare.",
+        "description": "Its 'dance' is no longer for performance but is a precise, controlled series of movements designed to manipulate the psychic energy in its water balloons. Its voice is less a song and more a focused projection of specific, mind-altering frequencies."
+      },
+      {
+        "name": "Primarina (Aethelian Form)",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Sirens from mythology, psychic warfare.",
+        "description": "The Eon Remnants' project is complete. This Primarina is a living psychic weapon. Its song is no longer calming but is a powerful psionic assault capable of dominating minds or shattering an opponent's mental defenses. The water balloons it controls are now glowing orbs of pure psychic energy."
+      },
+      {
+        "name": "Heliolisk (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (The Aurora)",
+        "inspiration": "Solar panels and the electrical nature of the aurora borealis.",
+        "description": "This variant of Heliolisk has adapted to the long nights and powerful auroras of the Aethel region. Instead of basking in the sun, it comes out on clear nights to absorb the charged cosmic particles from the northern lights. Its expandable frill is not made of skin, but of a series of crystalline, ice-like structures that glow and hum with captured energy."
+      },
+      {
+        "name": "Scyther (Aethelian Form)",
+        "in_world_origin": "Natural Adaptation (Harsh Cold Environment)",
+        "inspiration": "The praying mantis and ice crystals.",
+        "description": "Having migrated to the Aethel region ages ago, this variant of Scyther adapted to the frigid climate. Its exoskeleton mimics the appearance of ice and snow, providing perfect camouflage in the tundra. It is more of a patient, ambush predator than its swift Kanto cousin, waiting for prey in snowdrifts before striking with its serrated, ice-hard scythes."
+      },
+      {
+        "name": "Scytalis",
+        "in_world_origin": "Unnatural - Direct Eon Remnants Apex Catalyst Use",
+        "inspiration": "Draconic chimeras and advanced, bladed weaponry.",
+        "description": "Scytalis is the horrifyingly successful result of the Eon Remnants' ultimate ambition. They discovered that Scyther's line contains dormant draconic DNA. The 'Apex Catalyst' doesn't just enhance—it rewrites. It aggressively activates this latent draconic code while infusing the Pokémon's body with a metallic, bio-mechanical alloy. The result is a sleek, draconic hunter, a chimera of ice-age survival and artificially awakened draconic power."
       }
     ],
     "aethel_league_challenge": {
@@ -16,7 +322,45 @@
           "type_specialty": "Water",
           "lore": "Marina's connection to the sea is absolute. Having grown up in Port Lumina, she has a deep, almost mystical bond with the powerful currents and the creatures within. She is a firm ally of the Coastal Clan and works closely with marine biologists like Dr. Finn to protect Aethel's waters. Her battle style is a reflection of the ocean itself: starting with relentless pressure and ending with overwhelming force. She respects Trainers who show resilience and a deep understanding of their Pokémon, seeing the bond between them as a current that can either carry them to victory or pull them under.",
           "battle_style": "Aggressive, focusing on powerful Water-type assaults and overwhelming opponents with speed and force.",
-          "team": []
+          "team": [
+            {
+              "name": "Aethelian Blastoise",
+              "concept": "A sturdy, powerful opener representing the sheer force of Aethel's rocky fjords."
+            },
+            {
+              "name": "Barraskewda",
+              "concept": "A blisteringly fast, relentless attacker to apply pressure."
+            },
+            {
+              "name": "Plesiosword",
+              "concept": "A powerful special attacker with a unique typing, connecting to the region's ancient past."
+            },
+            {
+              "name": "Drednaw",
+              "concept": "A straightforward physical powerhouse that adds to the relentless assault."
+            },
+            {
+              "name": "Krakenos (Ace)",
+              "concept": "A massive Poison/Dragon type that represents the terrifying, untamable power of the deep abyss—the final, overwhelming wave in her strategy.",
+              "unique_form": {
+                "form_name": "Tidal Rage Form",
+                "catalyst_moment": "During a fierce battle to stop a Northwind Syndicate oil tanker from capsizing and poisoning Port Lumina's bay, Marina and Krakenos dove into the crushing depths. Surrounded by collapsing metal and the encroaching toxic spill, their shared desperation to protect their home caused them to resonate with the raw, untamable power of the abyss, giving them the strength to push the tanker back to the surface.",
+                "appearance_change": "Krakenos's body takes on a deep, abyssal blue-black hue. The suckers on its tentacles glow with a menacing crimson light, and the water around it seems to warp and bend under an unseen pressure.",
+                "stat_boost": ["Strength", "Vitality"],
+                "resonant_ability": {
+                  "name": "Abyssal Grasp",
+                  "effect": "While in Tidal Rage Form, any opponent that makes direct contact with Krakenos has their Dexterity lowered by 1."
+                },
+                "unity_move": {
+                  "name": "Maelstrom Prison",
+                  "type": "Water",
+                  "accuracy": "Strength + Brawl",
+                  "damage": "Strength + 8",
+                  "effect": "The target is trapped for 3 rounds. At the end of each of the target's turns, they take 1d8 Water-type damage."
+                }
+              }
+            }
+          ]
         },
         {
           "name": "Willow",
@@ -24,7 +368,45 @@
           "type_specialty": "Ghost/Psychic",
           "lore": "The enigmatic guardian of The Ancestral Bluffs, Willow's battles are tests of a challenger's focus and intuition. She uses illusions and misdirection to communicate with the spirit world and confound her opponents.",
           "battle_style": "Psychological warfare, utilizing status effects, illusions, and moves that disrupt the opponent's strategy.",
-          "team": []
+          "team": [
+            {
+              "name": "Aethelian Spiritomb",
+              "concept": "Thematic cornerstone of her team, directly linked to her home in the Ancestral Bluffs."
+            },
+            {
+              "name": "Hisuian Zoroark",
+              "concept": "The master of illusions, fitting her battle style of misdirection."
+            },
+            {
+              "name": "Aethelian Lumineon",
+              "concept": "Represents her ability to see visions and her connection to the spiritual side of Aethel's nature."
+            },
+            {
+              "name": "Aegislash",
+              "concept": "A classic, powerful Ghost/Steel type that provides excellent defensive and offensive capabilities."
+            },
+            {
+              "name": "Technomancy (Ace)",
+              "concept": "A creature born from corrupted technology that Willow has tamed, representing a bridge between Aethel's ancient past and its encroaching technological present.",
+              "unique_form": {
+                "form_name": "Noospheric Form",
+                "catalyst_moment": "While delving into the corrupted digital world within an old Cryosys server to free a trapped spirit, Willow and her then-Spectracon were nearly erased by a sentient security program. To survive, they had to merge their psychic energies, allowing the Pokémon to not just inhabit the machine, but command the very code it was made of, forcing an evolution into Technomancy.",
+                "appearance_change": "Technomancy's body becomes a glitching vortex of spectral data and hard light. Its movements leave behind pixelated trails, and its cry is a chorus of distorted data streams.",
+                "stat_boost": ["Special", "Dexterity"],
+                "resonant_ability": {
+                  "name": "Data Corruption",
+                  "effect": "When Technomancy hits a target with a Special move, the target must make an Insight roll (Difficulty 2). On a failure, it becomes Confused."
+                },
+                "unity_move": {
+                  "name": "Psionic Overload",
+                  "type": "Psychic",
+                  "accuracy": "Special + Channel",
+                  "damage": "Special + 7",
+                  "effect": "This move hits all adjacent opponents and ignores all resistances and immunities, always dealing at least neutral damage."
+                }
+              }
+            }
+          ]
         },
         {
           "name": "Nuna",
@@ -32,7 +414,45 @@
           "faction_tie": "The Aurora's Chosen",
           "lore": "An elder of the Aurora's Chosen with deep roots in the nomadic Tundra Collectives, Nuna's battle style is patient and unyielding, like a glacier. She tests a Trainer's ability to endure and adapt to the harshest conditions.",
           "battle_style": "Defensive and patient, weathering attacks before unleashing powerful counter-assaults.",
-          "team": []
+          "team": [
+            {
+              "name": "Aethelian Gogoat",
+              "concept": "A sturdy Ice/Rock type that embodies the 'unyielding' and 'weathering attacks' part of her style."
+            },
+            {
+              "name": "Crabominable",
+              "concept": "A solid Ice/Fighting brawler that can absorb hits and retaliate with immense power."
+            },
+            {
+              "name": "Aethelian Arbok",
+              "concept": "A formidable and patient tundra predator that adds tactical variety and a unique regional flavor."
+            },
+            {
+              "name": "Ursalacier",
+              "concept": "The 'apex predator of the Aethelian tundra.' A powerful physical force that fits her Ice/Fighting specialty."
+            },
+            {
+              "name": "Siberus (Ace)",
+              "concept": "As the 'Alpha Pokémon,' it directly represents her role as an elder and leader of the Tundra Collective. Her bond with it is a bond with the spirit of the entire pack.",
+              "unique_form": {
+                "form_name": "Alpha's Mantle Form",
+                "catalyst_moment": "Faced with an unnatural, unending blizzard summoned by a Cryosys weather machine, Nuna and her pack leader, Siberus, had to guide their entire tribe through a treacherous mountain pass. Drawing on their shared ancestral bond and the spirit of the pack, they resonated with the alpha's duty to protect its own, empowering Siberus to lead them through the storm.",
+                "appearance_change": "Siberus's fur becomes coated in shimmering permafrost, resembling a royal mantle. Its eyes glow with a piercing blue light, and its howl materializes as a visible wave of freezing air.",
+                "stat_boost": ["Strength", "Dexterity"],
+                "resonant_ability": {
+                  "name": "Alpha's Command",
+                  "effect": "All allied Pokémon on the field gain +1 to their Strength and Dexterity."
+                },
+                "unity_move": {
+                  "name": "Pack Hunt",
+                  "type": "Dark",
+                  "accuracy": "Strength + Brawl",
+                  "damage": "Strength + 4",
+                  "effect": "This move can hit up to three times. The first hit targets the opponent. After the first hit, Siberus can immediately make a second and third attack against any other opposing Pokémon on the field."
+                }
+              }
+            }
+          ]
         },
         {
           "name": "Silas",
@@ -40,7 +460,45 @@
           "type_specialty": "Bug/Dark",
           "lore": "Silas was once a top agent for the notorious Northwind Syndicate, a criminal organization specializing in espionage and corporate sabotage. Disgusted by their escalating greed, he defected, using his tactical genius to protect Aethel from the shadows. He joined the Elite Four not for fame, but to test his strategies against the region's strongest, believing that true mastery lies in controlling the flow of battle before the first move is even made.",
           "battle_style": "Highly tactical, focusing on entry hazards, status conditions, and pivot moves like U-turn to maintain battlefield control. He exploits weaknesses with ruthless efficiency.",
-          "team": []
+          "team": [
+            {
+              "name": "Aethelian Ariados",
+              "concept": "The perfect lead for Silas to set up entry hazards like Sticky Web and control the pace of the battle."
+            },
+            {
+              "name": "Scizor",
+              "concept": "A classic tactical Pokémon with access to U-turn for pivoting and maintaining momentum."
+            },
+            {
+              "name": "Noctcrow",
+              "concept": "A fast special attacker that fits his 'shadow' theme and his past as an agent."
+            },
+            {
+              "name": "Aethelian Weavile",
+              "concept": "A pragmatic choice, using a rival faction's 'perfected predator' as a formidable sweeper."
+            },
+            {
+              "name": "Lycosacrawl (Ace)",
+              "concept": "As the 'Predator Pokémon,' a master of stealth and ambush, it perfectly embodies Silas's character as a 'Shadow Strategist.'",
+              "unique_form": {
+                "form_name": "Umbral Stalker Form",
+                "catalyst_moment": "Cornered by his former Syndicate comrades in a collapsing ice cave, Silas and Lycosacrawl had to use the treacherous terrain to their advantage. Their bond resonated through a shared, perfect understanding of strategy and survival, allowing them to turn the tables on their hunters.",
+                "appearance_change": "Lycosacrawl's earthen carapace becomes covered in shifting, shadowy patterns. Its multiple eyes glow with a predatory, purple light, and it moves with an unnerving silence.",
+                "stat_boost": ["Strength", "Dexterity"],
+                "resonant_ability": {
+                  "name": "Ambush Predator",
+                  "effect": "If Lycosacrawl attacks a Pokémon on the same turn it switches in, the attack is guaranteed to be a critical hit."
+                },
+                "unity_move": {
+                  "name": "Ensnaring Fang",
+                  "type": "Bug",
+                  "accuracy": "Strength + Brawl",
+                  "damage": "Strength + 7",
+                  "effect": "This move has Priority. If it hits, the target is trapped, cannot switch out, and receives the Poisoned status effect."
+                }
+              }
+            }
+          ]
         }
       ],
       "champion": {
@@ -48,102 +506,161 @@
         "title": "The Living Legend",
         "lore": "Before she was the region's esteemed professor, Aspen was a Champion whose name was synonymous with adventure and discovery. She was the first to chart many of Aethel's most remote locations and forged bonds with Pokémon previously thought to be myths. She retired from her position to dedicate her life to research, believing that understanding Pokémon was a greater calling than simply commanding them in battle. She returns to the Champion's seat only for the annual tournament, not to test the heart and spirit of the next generation. Her team is a living testament to her journeys, comprised of Pokémon from Aethel's ancient past, and her bond with them is so strong it has unlocked the region's deepest secret: Aethelian Resonance.",
         "battle_style": "Masterful and adaptive, utilizing a deep understanding of Pokémon synergy and possessing the unique ability to unlock Aethelian Resonance.",
-        "team": []
+        "team": [
+          {
+            "name": "Hisuian Arcanine",
+            "concept": "A majestic and powerful Fire/Rock type that immediately establishes the 'ancient' theme of her team."
+          },
+          {
+            "name": "Glaicermoth",
+            "concept": "The 'Glacial Mammoth Pokémon,' a resurrected fossil native to Aethel, showing her connection to the region's prehistoric life."
+          },
+          {
+            "name": "Basculegion",
+            "concept": "A Water/Ghost type with a powerful backstory, showing her empathy for even the most unique Pokémon."
+          },
+          {
+            "name": "Aethelian Torterra",
+            "concept": "The 'walking mountain' form of Torterra, a Grass/Rock type that embodies Aethel's 'enduring, ancient nature.'"
+          },
+          {
+            "name": "Ursalacier (Ace)",
+            "concept": "Aspen's Ursalacier is unique; revived from a 'Glacial Claw Fossil,' it is the first of its kind in the modern era. Its power is a mix of its primordial origin and Aspen's specialized training.",
+            "unique_form": {
+              "form_name": "Jotunn's Wrath Form",
+              "catalyst_moment": "During her first expedition into the heart of the Grand Glacier, a younger Aspen was cornered by territorial Pokémon near a site of immense natural energy. Her newly revived Ursalacier, sensing a threat to its first friend in a new world, tapped into its dormant, primordial power to defend her. This clash of ancient energies forged their unbreakable bond and unlocked its true potential.",
+              "appearance_change": "Ursalacier's icy mantle grows into jagged, mountain-like peaks. Its eyes glow with a cold, blue light, and its claws become encased in a layer of unbreakable, diamond-hard rime ice.",
+              "stat_boost": ["Strength", "Vitality"],
+              "resonant_ability": {
+                "name": "Primordial Might",
+                "effect": "Ursalacier's attacks ignore any of the target's defensive stat boosts (from moves like Iron Defense, for example)."
+              },
+              "unity_move": {
+                "name": "Glacial Calamity",
+                "type": "Ice",
+                "accuracy": "Strength + Brawl",
+                "damage": "Strength + 8",
+                "effect": "This move has a high chance to leave the target Frozen. Due to the immense crushing force, it deals Super-Effective damage to Rock-type Pokémon."
+              }
+            }
+          },
+          {
+            "name": "Hisuian Goodra (Ace)",
+            "concept": "Her second ace, a durable Steel/Dragon type. Its powerful protective instincts mirror Aspen's role as a guardian of the Aethel region and its natural balance.",
+            "unique_form": {
+              "form_name": "Aethel's Bulwark Form",
+              "catalyst_moment": "Professor Aspen and her Hisuian Goodra stood as the last line of defense for the Aethel region against Chairman Thorne's attempt to shatter the Grand Glacier. Their unwavering resolve to protect the natural balance of the world resonated with Goodra's powerful protective instincts, forging an unbreakable bond and unlocking this form.",
+              "appearance_change": "The metallic shell glows with a soft, internal light. Its slimy body shimmers with auroral colors, and the shell extends to its antennae, which radiate with aurora borealis energy.",
+              "stat_boost": ["Vitality", "Insight"],
+              "resonant_ability": {
+                "name": "Unyielding Bulwark",
+                "effect": "Goodra and its allies are immune to critical hits. Once per round, Goodra can use its reaction to redirect an attack targeting an ally to itself."
+              },
+              "unity_move": {
+                "name": "Sanctuary Shell",
+                "type": "Steel",
+                "accuracy": "Automatic",
+                "damage": "None",
+                "effect": "For this round and the next, all damage dealt to Goodra and its allies is reduced to 0. This move is usable once per battle."
+              }
+            }
+          }
+        ]
       }
     },
-	"gym_leaders_and_key_npcs": {
-	  "antagonists": [
-		{
-		  "name": "Chairman Thorne",
-		  "role": "Primary Antagonist, CEO of Cryosys",
-		  "description": "The public face of progress in Aethel and the secret mastermind behind the plot to awaken Fimbulstorm. Thorne is a cold, calculating idealist who believes that the chaos and imperfection of humanity and nature must be purged and replaced by a world of perfect, frozen order."
-		},
-		{
-		  "name": "Commander Valen",
-		  "role": "Cryosys Field Commander",
-		  "description": "A high-ranking and ruthlessly pragmatic tactician for Cryosys. Valen is a recurring antagonist who carries out Thorne's orders with brutal efficiency, viewing any opposition as an obstacle to be removed."
-		},
-		{
-		  "name": "The Northwind Syndicate",
-		  "role": "Antagonist Faction",
-		  "description": "A criminal organization focused on espionage, corporate sabotage, and the acquisition of rare Pokémon and technology for profit. They are a third party in the region's conflicts, often selling their services to the highest bidder or manipulating events for their own gain."
-		}
-	  ],
-	  "gym_leaders": [
-		{
-		  "name": "Forrest",
-		  "gym_number": 1,
-		  "location": "Birchhaven City",
-		  "type_specialty": "Bug",
-		  "faction_tie": "The Frontier Cartographers",
-		  "description": "An enthusiastic and knowledgeable Bug-type trainer. Forrest is a young, eager explorer who uses his knowledge of Aethel's forests to guide new trainers and assist the Frontier Cartographers in their mapping expeditions."
-		},
-		{
-		  "name": "Slade",
-		  "gym_number": 2,
-		  "location": "Gold-Paw Gulch",
-		  "type_specialty": "Rock",
-		  "faction_tie": "The Prospector's Union",
-		  "description": "A grizzled, no-nonsense member of the Prospector's Union. Slade's battle style is as direct and unyielding as the mountains themselves. He respects toughness and a strong work ethic above all else."
-		},
-		{
-		  "name": "Marina",
-		  "gym_number": 3,
-		  "location": "Port Lumina",
-		  "type_specialty": "Water",
-		  "faction_tie": "The Coastal Clan",
-		  "description": "Also a member of the Elite Four, Marina's Gym challenge is a test of a trainer's ability to handle the relentless pressure of the sea. Her Gym is located on a series of docks and houseboats in Port Lumina."
-		},
-		{
-		  "name": "Dr. Elias Vance",
-		  "gym_number": 4,
-		  "location": "Silverpeak Institute",
-		  "type_specialty": "Ice",
-		  "faction_tie": "Cryosys",
-		  "description": "A detached and analytical scientist who views Pokémon battles as experiments in efficiency. Dr. Vance is a high-ranking researcher at the Cryosys-funded Silverpeak Institute, using his position to study the effects of extreme cold on Pokémon."
-		},
-		{
-		  "name": "Warden Kael",
-		  "gym_number": 5,
-		  "location": "Fort Reliance",
-		  "type_specialty": "Steel",
-		  "description": "An honor-bound and disciplined trainer who serves as the warden of Fort Reliance. Kael's battle style is built on impenetrable defense and powerful, decisive counterattacks. He values order and strength."
-		},
-		{
-		  "name": "Elder Torik",
-		  "gym_number": 6,
-		  "location": "Tundra Spire",
-		  "type_specialty": "Fighting",
-		  "faction_tie": "The Aurora's Chosen",
-		  "description": "A wise and powerful elder who resides at the remote Tundra Spire. Torik believes that true strength comes from the harmony between mind, body, and spirit. His battles are a test of a trainer's focus and inner resolve."
-		},
-		{
-		  "name": "Rowan",
-		  "gym_number": 7,
-		  "location": "Oldgrowth Haven",
-		  "type_specialty": "Grass",
-		  "description": "A mystical and reclusive trainer who acts as the guardian of the ancient Oldgrowth Haven. Rowan is deeply connected to the natural world and uses his Grass-type Pokémon to protect the forest from those who would harm it."
-		}
-	  ],
-	  "key_allies": [
-	    {
-		  "name": "Dr. Finn",
-		  "role": "Marine Biologist",
-		  "faction_tie": "The Coastal Clan",
-		  "description": "A dedicated marine biologist working closely with Marina and the Coastal Clan to study and protect Aethel's unique marine ecosystems."
-		},
-		{
-		  "name": "Elara",
-		  "role": "Leader of the Wayward Hearth",
-		  "description": "The benevolent and charismatic leader of the Wayward Hearth. Elara travels throughout Aethel, offering aid to both people and Pokémon in need, and serves as a moral compass for the players."
-		},
-		{
-		  "name": "Lena",
-		  "role": "Tech Expert",
-		  "faction_tie": "The Frontier Cartographers",
-		  "description": "A brilliant tech expert and information broker for the Frontier Cartographers. Lena can provide the players with crucial data, equipment, and insights into the activities of Cryosys and the Eon Remnants."
-		}
-	  ]
-	}
+    "gym_leaders_and_key_npcs": {
+      "antagonists": [
+        {
+          "name": "Chairman Thorne",
+          "role": "Primary Antagonist, CEO of Cryosys",
+          "description": "The public face of progress in Aethel and the secret mastermind behind the plot to awaken Fimbulstorm. Thorne is a cold, calculating idealist who believes that the chaos and imperfection of humanity and nature must be purged and replaced by a world of perfect, frozen order."
+        },
+        {
+          "name": "Commander Valen",
+          "role": "Cryosys Field Commander",
+          "description": "A high-ranking and ruthlessly pragmatic tactician for Cryosys. Valen is a recurring antagonist who carries out Thorne's orders with brutal efficiency, viewing any opposition as an obstacle to be removed."
+        },
+        {
+          "name": "The Northwind Syndicate",
+          "role": "Antagonist Faction",
+          "description": "A criminal organization focused on espionage, corporate sabotage, and the acquisition of rare Pokémon and technology for profit. They are a third party in the region's conflicts, often selling their services to the highest bidder or manipulating events for their own gain."
+        }
+      ],
+      "gym_leaders": [
+        {
+          "name": "Forrest",
+          "gym_number": 1,
+          "location": "Birchhaven City",
+          "type_specialty": "Bug",
+          "faction_tie": "The Frontier Cartographers",
+          "description": "An enthusiastic and knowledgeable Bug-type trainer. Forrest is a young, eager explorer who uses his knowledge of Aethel's forests to guide new trainers and assist the Frontier Cartographers in their mapping expeditions."
+        },
+        {
+          "name": "Slade",
+          "gym_number": 2,
+          "location": "Gold-Paw Gulch",
+          "type_specialty": "Rock",
+          "faction_tie": "The Prospector's Union",
+          "description": "A grizzled, no-nonsense member of the Prospector's Union. Slade's battle style is as direct and unyielding as the mountains themselves. He respects toughness and a strong work ethic above all else."
+        },
+        {
+          "name": "Marina",
+          "gym_number": 3,
+          "location": "Port Lumina",
+          "type_specialty": "Water",
+          "faction_tie": "The Coastal Clan",
+          "description": "Also a member of the Elite Four, Marina's Gym challenge is a test of a trainer's ability to handle the relentless pressure of the sea. Her Gym is located on a series of docks and houseboats in Port Lumina."
+        },
+        {
+          "name": "Dr. Elias Vance",
+          "gym_number": 4,
+          "location": "Silverpeak Institute",
+          "type_specialty": "Ice",
+          "faction_tie": "Cryosys",
+          "description": "A detached and analytical scientist who views Pokémon battles as experiments in efficiency. Dr. Vance is a high-ranking researcher at the Cryosys-funded Silverpeak Institute, using his position to study the effects of extreme cold on Pokémon."
+        },
+        {
+          "name": "Warden Kael",
+          "gym_number": 5,
+          "location": "Fort Reliance",
+          "type_specialty": "Steel",
+          "description": "An honor-bound and disciplined trainer who serves as the warden of Fort Reliance. Kael's battle style is built on impenetrable defense and powerful, decisive counterattacks. He values order and strength."
+        },
+        {
+          "name": "Elder Torik",
+          "gym_number": 6,
+          "location": "Tundra Spire",
+          "type_specialty": "Fighting",
+          "faction_tie": "The Aurora's Chosen",
+          "description": "A wise and powerful elder who resides at the remote Tundra Spire. Torik believes that true strength comes from the harmony between mind, body, and spirit. His battles are a test of a trainer's focus and inner resolve."
+        },
+        {
+          "name": "Rowan",
+          "gym_number": 7,
+          "location": "Oldgrowth Haven",
+          "type_specialty": "Grass",
+          "description": "A mystical and reclusive trainer who acts as the guardian of the ancient Oldgrowth Haven. Rowan is deeply connected to the natural world and uses his Grass-type Pokémon to protect the forest from those who would harm it."
+        }
+      ],
+      "key_allies": [
+        {
+          "name": "Dr. Finn",
+          "role": "Marine Biologist",
+          "faction_tie": "The Coastal Clan",
+          "description": "A dedicated marine biologist working closely with Marina and the Coastal Clan to study and protect Aethel's unique marine ecosystems."
+        },
+        {
+          "name": "Elara",
+          "role": "Leader of the Wayward Hearth",
+          "description": "The benevolent and charismatic leader of the Wayward Hearth. Elara travels throughout Aethel, offering aid to both people and Pokémon in need, and serves as a moral compass for the players."
+        },
+        {
+          "name": "Lena",
+          "role": "Tech Expert",
+          "faction_tie": "The Frontier Cartographers",
+          "description": "A brilliant tech expert and information broker for the Frontier Cartographers. Lena can provide the players with crucial data, equipment, and insights into the activities of Cryosys and the Eon Remnants."
+        }
+      ]
+    }
   }
 }
