@@ -28,38 +28,62 @@
         {
           "name": "Port Lumina",
           "description": "A hardy, salt-of-the-earth port town that serves as the gateway to Aethel's treacherous northern seas. Its people are resilient and deeply connected to the ocean, and it's the primary stronghold of the Coastal Clan."
+        },
+		{
+          "name": "Birchhaven City",
+          "description": "A town nestled in the boreal forests, home to Forrest's Bug-type Gym."
+        },
+		{
+          "name": "Gold-Paw Gulch",
+          "description": "A mining settlement that serves as the base for the Prospector's Union and Slade's Rock-type Gym."
+        },
+		{
+          "name": "Silverpeak Institute",
+          "description": "A high-tech research facility in the mountains, location of Dr. Elias Vance's Ice-type Gym."
+        },
+		{
+          "name": "Fort Reliance",
+          "description": "A fortified town known for its resilience and Warden Kael's Steel-type Gym."
+        },
+		{
+          "name": "Tundra Spire",
+          "description": "A remote and spiritual location in the high tundra, home to Elder Torik's Fighting-type Gym."
+        },
+		{
+          "name": "Oldgrowth Haven",
+          "description": "A mystical and ancient part of the forest, protected by Rowan and his Grass-type Gym."
         }
       ]
     },
     "aethel_narrative_arcs": {
-      "main_story_arc": "The Hibernating Giant",
-      "description": "The main plot revolves around the growing instability of the Grand Glacier, which threatens to unleash a catastrophic flood upon the Aethel region. The players will discover that this is not a natural phenomenon, but is caused by the stirring of a powerful, ancient legendary Pokémon, Terrin, the 'Hibernating Giant,' which has been disturbed by the aggressive resource extraction of Cryosys and the Eon Remnants' strange experiments.",
+      "main_story_arc": "The Slumbering Leviathan",
+      "description": "The ultimate threat to Aethel is the primordial force of cold and stasis, Fimbulstorm, which slumbers within the Grand Glacier. Chairman Thorne, the CEO of Cryosys, secretly believes humanity is a chaotic plague on the world. His final solution is to awaken the leviathan and usher in a new ice age—a 'perfect' world of cold, unchanging order. All other regional conflicts are secondary to, or manipulated by, this central plot.",
       "key_acts": [
         {
           "act": 1,
-          "title": "The Cracks Begin to Show",
+          "title": "A Region on Edge",
           "plot_points": [
-            "Players begin their journey, receiving their starter Pokémon from Professor Aspen and learning about the Aethel League.",
-            "They witness firsthand the aggressive operations of Cryosys and the shadowy activities of the Eon Remnants.",
-            "They encounter the growing tension between the region's factions and hear whispers of strange seismic activity around the Grand Glacier."
+            "Players begin their journey and are introduced to the simmering tensions in Aethel.",
+            "They witness Cryosys's aggressive operations at the Bellowing Vents, the Eon Remnants' shadowy experiments, and the apathetic resource-gathering of the Prospector's Union.",
+            "The immediate, visible threat appears to be the potential awakening of the 'Hibernating Giant,' Terrin."
           ]
         },
         {
           "act": 2,
-          "title": "A Region Divided",
+          "title": "Heart of the Geyser Fields",
           "plot_points": [
-            "Players travel across Aethel, challenging Gym Leaders who are deeply involved with the region's factions.",
-            "They must choose which factions to align with, earning reputation and unlocking unique side quests and rewards.",
-            "They uncover clues that the glacier's instability is not natural, leading them to investigate the legendary Terrin."
+            "The Prospector's Union's reckless digging and Cryosys's large-scale energy extraction at the Bellowing Vents push the legendary Pokémon Terrin to the brink of a full eruption.",
+            "The players must navigate this conflict and ultimately find a way to calm the rampaging 'Shifting Earth.'",
+            "Upon succeeding, they uncover Cryosys's deception: the entire operation was a cover to siphon immense geothermal energy and channel it north to the Grand Glacier."
           ]
         },
         {
           "act": 3,
-          "title": "The Titan's Awakening",
+          "title": "The Leviathan Wakes",
           "plot_points": [
-            "The glacier begins to calve at an alarming rate, causing floods and forcing evacuations. Terrin awakens in a confused rage, posing a threat to the entire region.",
-            "Players must unite the factions of Aethel to face the crisis.",
-            "The climax involves a multi-stage confrontation at the heart of the Grand Glacier where players must calm the rampaging Terrin and defeat the true antagonist who orchestrated the crisis for their own gain."
+            "Armed with the terrible truth, the players must now convince the factions of Aethel of the true danger.",
+            "The climax of the campaign is a desperate race to the heart of the Grand Glacier to stop Chairman Thorne and Cryosys from completing the final ritual to awaken Fimbulstorm.",
+            "This will be the final confrontation to prevent the world from being plunged into a perfect, silent, and frozen eternity."
           ]
         }
       ]
@@ -76,7 +100,7 @@
       "factions": [
         {
           "name": "Cryosys",
-          "description": "A ruthless mega-corporation focused on a new, highly efficient, but ecologically devastating form of energy extraction. They are technologically advanced and value profit above all else."
+          "description": "A ruthless mega-corporation focused on a new, highly efficient, but ecologically devastating form of energy extraction. Their secret goal is to use their technology to awaken Fimbulstorm to usher in a new ice age of 'perfect order.'"
         },
         {
           "name": "The Eon Remnants",
@@ -97,7 +121,15 @@
         {
           "name": "The Frontier Cartographers",
           "description": "A neutral guild of adventurers, scholars, and survivalists dedicated to mapping the uncharted territories of Aethel. They serve as guides and information brokers for those brave enough to explore the wilderness."
-        }
+        },
+		{
+		  "name": "The Wayward Hearth",
+		  "description": "A benevolent, nomadic faction dedicated to providing aid and healing. They operate mobile medical units and conservationist projects, often clashing with the more aggressive, resource-driven factions."
+		},
+		{
+		  "name": "The Permafrost Foundation",
+		  "description": "A radical conservationist group with a purist ideology. They believe the Aethel region's ecosystem is perfect and must be protected from all 'outside corruption.' Their methods are extreme, and they view humans as a blight on the natural world."
+		}
       ]
     },
     "aethel_region_update": {
