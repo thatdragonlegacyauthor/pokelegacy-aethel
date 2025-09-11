@@ -1,0 +1,155 @@
+{
+  "aethel_region_core": {
+    "aethel_region_overview": {
+      "name": "The Aethel Region",
+      "inspired_by": "The rugged, beautiful landscapes of Alaska.",
+      "core_themes": [
+        "The struggle between nature and technology.",
+        "The enduring legacy of the past.",
+        "The journey of self-discovery in a harsh, untamed wilderness."
+      ],
+      "key_locations": [
+        {
+          "name": "Veridian City",
+          "description": "The bustling heart of the Aethel region, a rare pocket of true urban development nestled at the edge of the vast wilderness. It's a city of contrasts, where ancient traditions meet cutting-edge, often reckless, technology. The city is a hub for all of the region's major factions, making it a hotbed of political intrigue, corporate espionage, and cultural exchange."
+        },
+        {
+          "name": "The Grand Glacier",
+          "description": "A colossal river of ice that dominates the northern landscape, crisscrossed with deep crevasses and ice caves. It is a place of profound silence, immense power, and ancient secrets, believed to be the resting place of a legendary Pokémon."
+        },
+        {
+          "name": "The Bellowing Vents",
+          "description": "A geothermally active volcanic area in the southern mountains, characterized by steaming geysers, bubbling mud pots, and rivers of heated water. It's a dangerous but resource-rich area, fiercely contested by Cryosys and the Prospector's Union."
+        },
+        {
+          "name": "The Ancestral Bluffs",
+          "description": "Towering cliffs along the western coast, riddled with ancient burial caves and marked with petroglyphs that tell the forgotten stories of Aethel's first peoples. This area is sacred to the Aurora's Chosen and is a place of deep spiritual power."
+        },
+        {
+          "name": "Port Lumina",
+          "description": "A hardy, salt-of-the-earth port town that serves as the gateway to Aethel's treacherous northern seas. Its people are resilient and deeply connected to the ocean, and it's the primary stronghold of the Coastal Clan."
+        }
+      ]
+    },
+    "aethel_narrative_arcs": {
+      "main_story_arc": "The Hibernating Giant",
+      "description": "The main plot revolves around the growing instability of the Grand Glacier, which threatens to unleash a catastrophic flood upon the Aethel region. The players will discover that this is not a natural phenomenon, but is caused by the stirring of a powerful, ancient legendary Pokémon, Terrin, the 'Hibernating Giant,' which has been disturbed by the aggressive resource extraction of Cryosys and the Eon Remnants' strange experiments.",
+      "key_acts": [
+        {
+          "act": 1,
+          "title": "The Cracks Begin to Show",
+          "plot_points": [
+            "Players begin their journey, receiving their starter Pokémon from Professor Aspen and learning about the Aethel League.",
+            "They witness firsthand the aggressive operations of Cryosys and the shadowy activities of the Eon Remnants.",
+            "They encounter the growing tension between the region's factions and hear whispers of strange seismic activity around the Grand Glacier."
+          ]
+        },
+        {
+          "act": 2,
+          "title": "A Region Divided",
+          "plot_points": [
+            "Players travel across Aethel, challenging Gym Leaders who are deeply involved with the region's factions.",
+            "They must choose which factions to align with, earning reputation and unlocking unique side quests and rewards.",
+            "They uncover clues that the glacier's instability is not natural, leading them to investigate the legendary Terrin."
+          ]
+        },
+        {
+          "act": 3,
+          "title": "The Titan's Awakening",
+          "plot_points": [
+            "The glacier begins to calve at an alarming rate, causing floods and forcing evacuations. Terrin awakens in a confused rage, posing a threat to the entire region.",
+            "Players must unite the factions of Aethel to face the crisis.",
+            "The climax involves a multi-stage confrontation at the heart of the Grand Glacier where players must calm the rampaging Terrin and defeat the true antagonist who orchestrated the crisis for their own gain."
+          ]
+        }
+      ]
+    },
+    "aethel_faction_reputation": {
+      "system_description": "The player's actions will influence their standing with the major factions of the Aethel region. Reputation is tracked on a scale from -10 to +10, unlocking different interactions, quests, and rewards.",
+      "reputation_levels": [
+        {"range": "-10 to -6", "title": "Hated"},
+        {"range": "-5 to -1", "title": "Disliked"},
+        {"range": "0", "title": "Neutral"},
+        {"range": "+1 to +5", "title": "Liked"},
+        {"range": "+6 to +10", "title": "Allied"}
+      ],
+      "factions": [
+        {
+          "name": "Cryosys",
+          "description": "A ruthless mega-corporation focused on a new, highly efficient, but ecologically devastating form of energy extraction. They are technologically advanced and value profit above all else."
+        },
+        {
+          "name": "The Eon Remnants",
+          "description": "A secretive organization of rogue scientists obsessed with unlocking and 'perfecting' Pokémon through artificial evolution and genetic modification, no matter the cost."
+        },
+        {
+          "name": "The Aurora's Chosen",
+          "description": "A spiritual and traditionalist group dedicated to preserving Aethel's ancient history and the delicate balance between humans, Pokémon, and nature. They are the guardians of the region's sacred sites."
+        },
+        {
+          "name": "The Prospector's Union",
+          "description": "A rugged and independent collective of miners and explorers who know the Aethel wilderness better than anyone. They are focused on discovering and excavating the region's vast mineral wealth."
+        },
+        {
+          "name": "The Coastal Clan",
+          "description": "A tight-knit community of sailors, fishers, and marine biologists who protect and live in harmony with Aethel's northern seas. They are fiercely territorial and experts in maritime survival."
+        },
+        {
+          "name": "The Frontier Cartographers",
+          "description": "A neutral guild of adventurers, scholars, and survivalists dedicated to mapping the uncharted territories of Aethel. They serve as guides and information brokers for those brave enough to explore the wilderness."
+        }
+      ]
+    },
+    "aethel_region_update": {
+      "canon_clarifications": [
+        {
+          "topic": "Aethelian Starter Variants",
+          "clarification": "The Aethelian variants of starter Pokémon from other regions (e.g., Bulbasaur, Chimchar, Popplio lines) are not offered as official starter choices by Professor Aspen. They are rare creatures that exist in the wild and must be discovered through exploration, making the native Aethel starters (Fawnora, Emberling, Kragshell) unique to the player's initial journey."
+        },
+        {
+          "topic": "Aethelian Salmon Lines",
+          "clarification": "The Aethelian Lumineon line represents a living, mystical salmon (Water/Psychic or Water/Fairy). The separate 'Salminy' and 'Solmancer' line represents the ghostly echo (Water/Ghost) of these creatures after they have completed their life's journey."
+        }
+      ],
+      "aethel_visiting_pokedex": {
+        "description": "A comprehensive list of non-native Pokémon that inhabit the Aethel region, categorized by their primary biome. Total unique evolutionary lines: 117. Total unique Pokémon species: 254.",
+        "biomes": {
+          "boreal_forests_and_tundra": {
+            "starters_and_common_encounters": ["Pidgey Line", "Sentret Line", "Hoothoot Line", "Zigzagoon Line (Hoennian)", "Starly Line", "Bidoof Line", "Deerling & Sawsbuck", "Bunnelby Line", "Fletchling Line", "Skwovet Line", "Wooloo Line"],
+            "forest_specialists": ["Caterpie Line", "Weedle Line", "Paras Line", "Venonat Line", "Spinarak Line", "Pineco Line", "Stantler & Wyrdeer", "Wurmple Line", "Kricketot Line", "Burmy Line", "Combee Line", "Cherubi Line", "Sewaddle Line", "Phantump Line", "Rowlet Line (Alolan)", "Grubbin Line", "Fomantis Line", "Bounsweet Line", "Oranguru", "Passimian", "Applin Line", "Bramblin & Brambleghast", "Teddiursa & Ursaring", "Hisuian Zorua & Zoroark"],
+            "tundra_and_alpine_specialists": ["Snover & Abomasnow", "Froslass", "Swinub Line", "Cubchoo Line", "Bergmite & Avalugg", "Snom & Frosmoth", "Alolan Vulpix & Ninetales", "Alolan Sandshrew & Sandslash", "Sneasel & Weavile"]
+          },
+          "mountains_and_caves": {
+            "common_dwellers": ["Zubat Line", "Geodude & Graveler", "Onix & Steelix", "Rhyhorn & Rhydon", "Gligar & Gliscor", "Aron Line", "Roggenrola Line", "Woobat Line", "Drilbur & Excadrill", "Noibat & Noivern"],
+            "deep_and_mystical_inhabitants": ["Bronzor & Bronzong", "Sableye", "Mawile", "Carbink", "Gible Line", "Nacli Line"]
+          },
+          "icy_coasts_and_fjords": ["Psyduck Line", "Poliwag Line", "Tentacool Line", "Seel & Dewgong", "Shellder & Cloyster", "Krabby & Kingler", "Horsea Line", "Staryu & Starmie", "Magikarp & Gyarados", "Lapras", "Chinchou Line", "Qwilfish", "Remoraid & Octillery", "Mantine", "Wingull & Pelipper", "Spheal Line", "Clamperl Line", "Finneon & Lumineon", "Frillish & Jellicent", "Binacle & Barbaracle", "Skrelp & Dragalge", "Clauncher & Clawitzer", "Wimpod & Golisopod", "Pyukumuku", "Cramorant", "Pincurchin", "Cetoddle & Cetitan", "Dondozo & Tatsugiri"],
+          "volcanic_areas": ["Vulpix Line (Kanto Form)", "Growlithe & Arcanine (Kanto Form)", "Ponyta Line", "Magmar Line", "Slugma & Magcargo", "Numel & Camerupt", "Torkoal", "Heatmor", "Turtonator", "Rolycoly Line", "Sizzlipede Line", "Hisuian Growlithe & Arcanine", "Salandit & Salazzle"],
+          "urban_and_civilized_areas": ["Abra Line", "Grimer Line (Kanto Form)", "Magnemite Line", "Voltorb & Electrode (Kanto Form)", "Porygon Line", "Snubbull & Granbull", "Houndour Line", "Minccino & Cinccino", "Trubbish & Garbodor"],
+          "mysterious_and_rare_encounters": ["Dratini Line", "Larvitar Line", "Beldum Line", "Spiritomb", "Rotom", "Cryogonal", "Honedge Line", "Goomy Line (Kalosian)", "Mimikyu", "Duraludon", "Dreepy Line"]
+        }
+      }
+    },
+    "aethelian_resonance_mechanic": {
+      "mechanic_name": "Aethelian Resonance",
+      "category": "Advanced Battle Mechanic",
+      "description": "A rare phenomenon unique to the Aethel region where the profound bond between a Trainer and their Pokémon allows them to harmonize with the region's ambient energy, unlocking a temporary and powerful new form.",
+      "unlock_requirements": ["The Pokémon must have the highest possible Bond/Loyalty rating with its Trainer.", "The Trainer and Pokémon must experience a significant, shared narrative event known as a 'Catalyst Moment', which is determined by the Storyteller. This is a one-time unlock per Pokémon."],
+      "activation": {"trainer_cost": "2 Will Points (WP)", "pokemon_cost": "2 Will Points (WP)", "limitation": "A Trainer can only activate Aethelian Resonance once per day.", "action_type": "Swift Action (Trainer)"},
+      "resonant_form": {
+        "title": "The Resonant Form (Collaborative Design)",
+        "description": "When the Catalyst Moment is achieved, the Player and Storyteller collaborate to permanently define the Pokémon's Resonant Form.",
+        "duration": "3 rounds of combat.",
+        "elements_to_define": [{"element": "Appearance Change", "details": "Design a unique temporary look for the Pokémon, inspired by the Trainer's Class and the Catalyst Moment."}, {"element": "Stat Boost", "details": "The player chooses two of the Pokémon's core stats. These two stats receive a +2 bonus for the duration of the form."}, {"element": "Resonant Ability", "details": "Design a new, custom Ability for the Pokémon that is active only during the transformation."}]
+      },
+      "unity_move": {
+        "title": "The Unity Move (Collaborative Design)",
+        "description": "The Player and Storyteller also design the Pokémon's unique Unity Move during the Catalyst Moment.",
+        "usage": "Can be used once while in Resonant Form.",
+        "action_type": "Standard Action (Pokémon)",
+        "attack_guideline": "If the move is an attack, a Base Power of 120 with a minor secondary effect is a good benchmark."
+      },
+      "consequences": {"effect": "Forced Recall", "details": "When the Resonant Form ends, the Pokémon is immediately returned to its Poké Ball. It cannot be sent out again for one full round."}
+    }
+  }
+}
