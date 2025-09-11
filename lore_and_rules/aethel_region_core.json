@@ -3,6 +3,7 @@
     "aethel_region_overview": {
       "name": "The Aethel Region",
       "inspired_by": "The rugged, beautiful landscapes of Alaska.",
+      "creation_myth": "The Legend of the Great Stillness: In the beginning, there were two beings that existed in the void: Fimbulstorm, the embodiment of perfect, unchanging stasis and cold, and Yggdrys, the embodiment of chaotic, uncontrollable growth and life. Their existence was a paradox, and from their silent clash, reality was born. Aethel is a land where the echoes of this primordial conflict still resonate, a place where the unrelenting cold and the tenacious life that clings to it are in a constant, delicate balance.",
       "core_themes": [
         "The struggle between nature and technology.",
         "The enduring legacy of the past.",
@@ -29,27 +30,27 @@
           "name": "Port Lumina",
           "description": "A hardy, salt-of-the-earth port town that serves as the gateway to Aethel's treacherous northern seas. Its people are resilient and deeply connected to the ocean, and it's the primary stronghold of the Coastal Clan."
         },
-		{
+        {
           "name": "Birchhaven City",
           "description": "A town nestled in the boreal forests, home to Forrest's Bug-type Gym."
         },
-		{
+        {
           "name": "Gold-Paw Gulch",
           "description": "A mining settlement that serves as the base for the Prospector's Union and Slade's Rock-type Gym."
         },
-		{
+        {
           "name": "Silverpeak Institute",
           "description": "A high-tech research facility in the mountains, location of Dr. Elias Vance's Ice-type Gym."
         },
-		{
+        {
           "name": "Fort Reliance",
           "description": "A fortified town known for its resilience and Warden Kael's Steel-type Gym."
         },
-		{
+        {
           "name": "Tundra Spire",
           "description": "A remote and spiritual location in the high tundra, home to Elder Torik's Fighting-type Gym."
         },
-		{
+        {
           "name": "Oldgrowth Haven",
           "description": "A mystical and ancient part of the forest, protected by Rowan and his Grass-type Gym."
         }
@@ -86,6 +87,38 @@
             "This will be the final confrontation to prevent the world from being plunged into a perfect, silent, and frozen eternity."
           ]
         }
+      ],
+      "side_story_arcs": [
+        {
+          "title": "The Apex Protocol",
+          "description": "This arc focuses on the Eon Remnants and their twisted experiments to 'perfect' Pokémon. The players uncover a plot to capture rare Pokémon, including the pre-evolution Sneasby, to subject them to the Apex Catalyst, an artificial evolution trigger. The goal is to create an army of powerful, bio-engineered Pokémon like the Aethelian Weavile, which they see as the pinnacle of predator evolution.",
+          "key_acts": [
+            {
+              "act": 1,
+              "title": "Whispers of Perfection",
+              "plot_points": [
+                "Players encounter evidence of strange Pokémon modifications and hear rumors of rogue scientists operating in remote labs.",
+                "They may rescue a Pokémon that has escaped from an Eon Remnants facility, leading them to investigate further."
+              ]
+            },
+            {
+              "act": 2,
+              "title": "The Hunter and the Hunted",
+              "plot_points": [
+                "Players track the Eon Remnants to one of their hidden research outposts, battling trainers with artificially enhanced Pokémon.",
+                "They must race to stop the Remnants from capturing a specific, rare Pokémon that is key to the next stage of the Apex Protocol."
+              ]
+            },
+            {
+              "act": 3,
+              "title": "Confronting the Creators",
+              "plot_points": [
+                "The climax occurs at the main Apex Protocol laboratory, where players must confront the lead scientists.",
+                "They face off against the Remnants' ultimate creation—a powerful, newly-evolved Apex Pokémon—to shut down the project for good."
+              ]
+            }
+          ]
+        }
       ]
     },
     "aethel_faction_reputation": {
@@ -107,6 +140,10 @@
           "description": "A secretive organization of rogue scientists obsessed with unlocking and 'perfecting' Pokémon through artificial evolution and genetic modification, no matter the cost."
         },
         {
+          "name": "The Northwind Syndicate",
+          "description": "A criminal organization focused on espionage, corporate sabotage, and the acquisition of rare Pokémon and technology for profit. They are a third party in the region's conflicts, often selling their services to the highest bidder or manipulating events for their own gain."
+        },
+        {
           "name": "The Aurora's Chosen",
           "description": "A spiritual and traditionalist group dedicated to preserving Aethel's ancient history and the delicate balance between humans, Pokémon, and nature. They are the guardians of the region's sacred sites."
         },
@@ -122,14 +159,14 @@
           "name": "The Frontier Cartographers",
           "description": "A neutral guild of adventurers, scholars, and survivalists dedicated to mapping the uncharted territories of Aethel. They serve as guides and information brokers for those brave enough to explore the wilderness."
         },
-		{
-		  "name": "The Wayward Hearth",
-		  "description": "A benevolent, nomadic faction dedicated to providing aid and healing. They operate mobile medical units and conservationist projects, often clashing with the more aggressive, resource-driven factions."
-		},
-		{
-		  "name": "The Permafrost Foundation",
-		  "description": "A radical conservationist group with a purist ideology. They believe the Aethel region's ecosystem is perfect and must be protected from all 'outside corruption.' Their methods are extreme, and they view humans as a blight on the natural world."
-		}
+        {
+          "name": "The Wayward Hearth",
+          "description": "A benevolent, nomadic faction dedicated to providing aid and healing. They operate mobile medical units and conservationist projects, often clashing with the more aggressive, resource-driven factions."
+        },
+        {
+          "name": "The Permafrost Foundation",
+          "description": "A radical conservationist group with a purist ideology. They believe the Aethel region's ecosystem is perfect and must be protected from all 'outside corruption.' Their methods are extreme, and they view humans as a blight on the natural world."
+        }
       ]
     },
     "aethel_region_update": {
