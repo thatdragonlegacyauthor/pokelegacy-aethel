@@ -1,0 +1,74 @@
+[
+  {
+    "echoName": "Echo of Ancient Life",
+    "type": "Deep Mind",
+    "trigger": "Roll 1 on d20 during travel through a 'Deep Mind' Locus Zone (Caves, Mountains).",
+    "sensoryDescriptor": "The air shimmers like a heat haze, though the air is cold. Faint, ghostly images of ancient Pokémon—Aerodactyl, Tyrunt, Amaura—can be seen moving silently through the rocks before fading completely.",
+    "mechanicalEffect": "For the duration, any Trainer may make an Insight check (Difficulty 3). On a success, they find a single, random Fossil item on the ground, seemingly materialized from nothing.",
+    "duration": "5 minutes"
+  },
+  {
+    "echoName": "The Heart's Respite",
+    "type": "Verdant Heart",
+    "trigger": "A Pokémon is reduced to 0 HP within a 'Living Network' Locus Zone (Forest, Grove).",
+    "sensoryDescriptor": "A soft, green light emanates from the surrounding moss and leaves, coalescing around the fallen Pokémon before sinking into its body.",
+    "mechanicalEffect": "The fainted Pokémon is immediately revived with 1 HP. This Echo can only occur once per 24 hours in the same location.",
+    "duration": "Instantaneous"
+  },
+  {
+    "echoName": "Winter's Slumber",
+    "type": "Hoarfrost Heart",
+    "trigger": "Players make camp for the night near a glacier, frozen lake, or during a snowstorm.",
+    "sensoryDescriptor": "An unnatural silence descends. The chirping of bug Pokémon fades, the wind ceases, and the air becomes perfectly still. The cold feels deep, ancient, and peaceful.",
+    "mechanicalEffect": "All characters (Trainers and Pokémon) who sleep here have their HP fully restored and recover all spent Resonance points, as if they had a perfectly sound and dreamless sleep.",
+    "duration": "Until sunrise"
+  },
+  {
+    "echoName": "Sudden, Impossible Bloom",
+    "type": "Verdant Heart",
+    "trigger": "A Grass-type Pokémon suffers a status condition.",
+    "sensoryDescriptor": "For a moment, the entire area is flooded with the scent of a thousand flowers. Tiny, vibrant, and otherworldly blossoms sprout from the ground and on tree branches, then vanish as quickly as they came.",
+    "mechanicalEffect": "All friendly Pokémon are immediately cured of any non-volatile status conditions (Poison, Paralysis, Burn, Sleep, Freeze).",
+    "duration": "Instantaneous"
+  },
+  {
+    "echoName": "Chant of the Stone",
+    "type": "Deep Mind",
+    "trigger": "Combat is initiated within a mountain pass or deep cavern Locus Zone.",
+    "sensoryDescriptor": "The air in the area suddenly becomes still, and all sound is replaced by an ancient, powerful, sub-audible hum that resonates in your bones.",
+    "mechanicalEffect": "For the duration, all Rock-type and Ground-type moves deal +2 damage.",
+    "duration": "3 rounds of combat"
+  },
+  {
+    "echoName": "Flash Frost",
+    "type": "Hoarfrost Heart",
+    "trigger": "The temperature drops suddenly.",
+    "sensoryDescriptor": "A visible wave of cold washes through the area. A beautiful, intricate layer of frost covers every surface for a few moments before sublimating into mist.",
+    "mechanicalEffect": "All non-Ice type Pokémon must make a VIT check (Difficulty 2). On a failure, their Dexterity is reduced by 2 for the duration.",
+    "duration": "1 minute"
+  },
+  {
+    "echoName": "Whispering Leaves",
+    "type": "Verdant Heart",
+    "trigger": "The players are lost or are searching for a hidden location in a forest.",
+    "sensoryDescriptor": "The wind rustles through the leaves, but for a moment, the sound is not random. It forms into a sibilant whisper that seems to guide you, urging you in a specific direction.",
+    "mechanicalEffect": "The GM provides a single, truthful, one-word clue to the players' current objective (e.g., 'North', 'Downstream', 'Cave', 'Weakness').",
+    "duration": "Instantaneous"
+  },
+  {
+    "echoName": "Gemstone Glimmer",
+    "type": "Deep Mind",
+    "trigger": "The first ray of dawn or the last ray of dusk strikes a rock face.",
+    "sensoryDescriptor": "As the light hits the rock, the wall glitters with a thousand points of light, as if it were made of diamond. The light pulses once, brightly, then fades, leaving the normal stone behind.",
+    "mechanicalEffect": "One player may make an Insight check (Difficulty 3). On a success, they spot and may retrieve a single valuable gem (e.g., Star Piece, Comet Shard) that has been left behind.",
+    "duration": "1 minute"
+  },
+  {
+    "echoName": "Crystal Clear Mind",
+    "type": "Hoarfrost Heart",
+    "trigger": "A character is attempting to solve a difficult puzzle or make a hard decision.",
+    "sensoryDescriptor": "The air becomes sharp, cold, and crystalline. All distracting thoughts seem to vanish, leaving only the problem at hand in perfect, clear focus.",
+    "mechanicalEffect": "The character attempting the mental task may add 2 bonus dice to their INS roll.",
+    "duration": "Instantaneous"
+  }
+]
