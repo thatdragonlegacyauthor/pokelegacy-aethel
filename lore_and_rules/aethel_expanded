@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "description": "A comprehensive rules addendum for the Aethel Region campaign in PokeLegacy. Contains all new core mechanics, dynamic events, and location-based effects.",
+  "coreMechanics": [
+    {
+      "name": "Resonance",
+      "description": "A measure of a character's connection to the Telluric Mind. It is a pool of points that can be spent to interact with the Living Network or Deep Mind.",
+      "calculation": "A Trainer or Pokémon's Resonance pool is equal to their Insight score.",
+      "uses": [
+        {
+          "cost": 1,
+          "name": "Listen to the Network",
+          "effect": "Ask the GM a single 'yes or no' question about the immediate natural environment (e.g., 'Is there clean water nearby?', 'Is this plant safe to eat?')."
+        },
+        {
+          "cost": 1,
+          "name": "Share a Feeling",
+          "effect": "Perfectly convey a single, complex emotion or simple concept (e.g., 'danger', 'safety', 'gratitude') to a willing Pokémon without words."
+        },
+        {
+          "cost": 1,
+          "name": "Push with the World",
+          "effect": "Grant 1 bonus die to a Pokémon's roll when using a move that matches one of its types."
+        }
+      ],
+      "recovery": "Resonance points are recovered by resting in a Locus Zone. The rate of recovery is determined by the Zone's strength (typically 1 point per hour of rest)."
+    },
+    {
+      "name": "The Equinox Track",
+      "description": "A 5-point narrative track for the GM to represent the planet's balance between the Verdant Heart (Yggdrys) and the Hoarfrost Heart (Fimbulstorm). Player and antagonist actions can shift the balance.",
+      "states": [
+        "Deep Summer (Yggdrys Dominant)",
+        "Summer (Yggdrys Favored)",
+        "Balance",
+        "Winter (Fimbulstorm Favored)",
+        "Deep Winter (Fimbulstorm Dominant)"
+      ],
+      "effect": "The current state of the track can influence the frequency and nature of Telluric Echoes, with 'Summer' states favoring Verdant Echoes and 'Winter' states favoring Hoarfrost Echoes."
+    }
+  ],
+  "dynamicEvents": {
+    "systemName": "Telluric Echoes",
+    "description": "Temporary, unpredictable manifestations of the Telluric Mind's dreams. These are event-based phenomena that alter a localized area for a limited time.",
+    "trigger": "The GM may trigger an Echo under specific narrative conditions, or by rolling a d20 when players enter a new Locus Zone or make camp for the night (e.g., on a 1 or 20).",
+    "examples": [
+      {
+        "echoName": "Echo of Ancient Life",
+        "type": "Deep Mind",
+        "trigger": "Roll 1 on d20 during travel through a 'Deep Mind' Locus Zone (Caves, Mountains).",
+        "sensoryDescriptor": "The air shimmers like a heat haze, though the air is cold. Faint, ghostly images of ancient Pokémon—Aerodactyl, Tyrunt, Amaura—can be seen moving silently through the rocks before fading completely.",
+        "mechanicalEffect": "For the duration, any Trainer may make an Insight check (Difficulty 3). On a success, they find a single, random Fossil item on the ground, seemingly materialized from nothing.",
+        "duration": "5 minutes"
+      },
+      {
+        "echoName": "The Heart's Respite",
+        "type": "Verdant Heart",
+        "trigger": "A Pokémon is reduced to 0 HP within a 'Living Network' Locus Zone (Forest, Grove).",
+        "sensoryDescriptor": "A soft, green light emanates from the surrounding moss and leaves, coalescing around the fallen Pokémon before sinking into its body.",
+        "mechanicalEffect": "The fainted Pokémon is immediately revived with 1 HP. This Echo can only occur once per 24 hours in the same location.",
+        "duration": "Instantaneous"
+      },
+      {
+        "echoName": "Chant of the Stone",
+        "type": "Deep Mind",
+        "trigger": "Combat is initiated within a mountain pass Locus Zone.",
+        "sensoryDescriptor": "The air in the mountain pass suddenly becomes still, and all sound is replaced by an ancient, powerful, sub-audible hum that resonates in your bones.",
+        "mechanicalEffect": "For the duration, all Rock-type moves deal +2 damage.",
+        "duration": "3 rounds of combat"
+      },
+      {
+        "echoName": "Winter's Slumber",
+        "type": "Hoarfrost Heart",
+        "trigger": "Players make camp for the night near a glacier or frozen lake.",
+        "sensoryDescriptor": "An unnatural silence descends. The chirping of bug Pokémon fades, the wind ceases, and the air becomes perfectly still. The cold feels deep, ancient, and peaceful.",
+        "mechanicalEffect": "All characters (Trainers and Pokémon) who sleep here have their HP fully restored and recover all spent Resonance points, as if they had a perfectly sound and dreamless sleep.",
+        "duration": "Until sunrise"
+      }
+    ]
+  },
+  "locationEffects": {
+    "systemName": "Locus Zones",
+    "description": "Specific locations in Aethel where the Telluric Mind's presence is uniquely strong, granting tangible and persistent mechanical benefits to those within them.",
+    "examples": [
+      {
+        "locationName": "The Glimmerwood",
+        "zoneType": "Verdant Heart (Yggdrys)",
+        "boonName": "Heart of the Living Network",
+        "effect": "While within the Glimmerwood, all Grass and Fairy-type Pokémon are considered to have the 'Regenerator' ability. Trainers recover 1 spent Resonance point for every hour they rest here."
+      },
+      {
+        "locationName": "Pinnacle of Silence",
+        "zoneType": "Hoarfrost Heart (Fimbulstorm)",
+        "boonName": "The Great Stillness",
+        "effect": "While on the Pinnacle, all sound-based moves fail. All Ice and Psychic-type Pokémon gain +1 to their VIT and INS scores. Trainers recover all spent Resonance points after a full night's rest."
+      }
+    ]
+  },
+  "newAbilities": [
+    {
+      "name": "Mycelial Step",
+      "description": "Once per scene, this Pokémon can use its action to teleport to any visible spot within 30 meters that is connected by soil, roots, or fungus. This does not work on sterile surfaces like metal or concrete.",
+      "suitedFor": [ "Grass", "Bug", "Fairy" ]
+    },
+    {
+      "name": "Deep Resonance",
+      "description": "This Pokémon is attuned to the Deep Mind. It has Resistance to moves that cause Confusion or Infatuation. If on a natural rock or ground surface, it cannot be moved against its will by moves like Whirlwind or Roar.",
+      "suitedFor": [ "Rock", "Ground", "Steel" ]
+    }
+  ]
+}
